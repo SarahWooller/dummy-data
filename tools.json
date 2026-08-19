@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "omi-db",
+        "url": "https://github.com/ICEBERG-VICOROB/omi-db",
+        "description": "Notebook for reading the JSON files from the omi-db dataset",
+        "results_insights": "",
+        "license": "",
+        "tech_stack": [
+            "Jupyter Notebook",
+            "Python"
+        ],
+        "category_id": null,
+        "enabled": true,
+        "associated_authors": [
+            "ICEBERG-VICOROB"
+        ],
+        "contact_address": null,
+        "any_dataset": false,
+        "status": "ACTIVE",
+        "user_id": 1,
+        "team_id": 2,
+        "created_at": "2026-08-17T13:37:57.002977",
+        "updated_at": "2026-08-17T13:37:57.002980"
+    },
+    {
+        "id": 2,
+        "name": "BREST",
+        "url": "https://github.com/gmontana/BREST",
+        "description": "BREST is a deep learning system that assesses 3-year breast cancer risk using screening mammograms, developed at the University of Warwick and trained exclusively on data from the English NHS Breast Screening Programme (OPTIMAM database).\n\nThe approach follows a \"better CAD, better risk\" hypothesis: a more accurate cancer detection model can be adapted into a more effective risk prediction model. BREST was first trained for cancer detection and then fine-tuned for 3-year risk assessment.\n\nThis is intended for research purposes only. Not a substitute for professional medical advice.",
+        "results_insights": "",
+        "license": "",
+        "tech_stack": [],
+        "category_id": null,
+        "enabled": true,
+        "associated_authors": [
+            "Dr Jiefei Wei",
+            "Xinyu Zhou",
+            "Dr Adam Brentnall",
+            "Dr Giovanni Montana"
+        ],
+        "contact_address": null,
+        "any_dataset": false,
+        "status": "ACTIVE",
+        "user_id": 1,
+        "team_id": 2,
+        "created_at": "2026-08-17T14:06:38.219958",
+        "updated_at": "2026-08-17T14:06:38.219961"
+    }
+]
